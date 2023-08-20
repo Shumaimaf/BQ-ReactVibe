@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Cinzel:wght@500&family=Merriweather:wght@300;400&family=Pacifico&family=Tangerine:wght@700&display=swap');
+
+.navbar {
+    font-family: 'Fira Sans', sans-serif;
+    text-transform: uppercase;
+    padding-left: 30px;
+    letter-spacing: 5px;
+
+}
+
+.icon-link {
+    margin-right: 8px;
+    text-decoration: none;
+    
+
+}
+
+.link-text {
+    letter-spacing: 1px;
+    padding: 10px;
+    margin-right: 8px;
+    font-size: large;
+    transition: color 0.3s;
+}
+
+.icon-link :hover {
+    color: grey;
+}
+
+
+.navbar {
+    margin: auto;
+}
+
+.side {
+    padding-left: 55px;
+    margin-left: 20px;
+}

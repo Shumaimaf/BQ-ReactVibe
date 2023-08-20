@@ -1,0 +1,38 @@
+/* .contanier{
+    width: 100%;
+    background-color: rgb(124, 118, 118);
+}
+h1 {
+    font-family: "Bebas Neue", cursive;
+    font-size: 60px;
+    font-weight: bold;
+    -webkit-font-smoothing: antialiased;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: lighten;
+    -webkit-font-smoothing: antialiased;
+}
+
+.article {
+    width: 100%;
+    height: auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.article-1 {
+    background: linear-gradient(51deg,
+            rgba(131, 58, 180, 1) 0%,
+            rgb(17, 10, 10) 50%,
+            rgba(252, 176, 69, 1) 100%);
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+} */
