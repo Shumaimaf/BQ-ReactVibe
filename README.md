@@ -71,6 +71,7 @@ put /api/user/:id
 <h3>1 .ORDERS</h3>
 
 /api/send-mail
+<br>
 /api/place-order
   
   
