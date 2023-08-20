@@ -12,6 +12,7 @@
 <h3>1 .BRANDS</h3> 
 
 /api/get-all-brands
+<br>
 /api/addbrand
 /api/brandbyid/:_id
 /api/brandbyname/:BrandName
