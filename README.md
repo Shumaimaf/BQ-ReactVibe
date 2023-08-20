@@ -1,4 +1,4 @@
-<h1 align="center" id="title">BQ-ReactVibe</h1>
+<h1 align="center" id="title"> 🧐🧐BQ-ReactVibe🧐🧐</h1>
 
 <p id="description">Efficient POS MERN Stack Project In today's fast-paced business environment having an efficient and robust point-of-sale (POS) system is paramount for enhancing customer experiences optimizing operations and gaining valuable insights into business performance. The Efficient POS MERN Stack Project is a cutting-edge solution designed to empower businesses with a modern and feature-rich POS experience. By leveraging the MongoDB Express.js React and Node.js (MERN) stack this project provides a comprehensive toolset for managing sales inventory and customer interactions.</p>
 
