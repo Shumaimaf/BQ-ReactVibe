@@ -6,6 +6,51 @@
 
 [https://gleaming-pocketbook-hare.cyclic.cloud/](https://gleaming-pocketbook-hare.cyclic.cloud/)
 
+
+<h2>🧐API Endpoints</h2>
+
+<h3>1 .BRANDS</h3> 
+
+/api/get-all-brands
+/api/addbrand
+/api/brandbyid/:_id
+/api/brandbyname/:BrandName
+/api/update-brand
+/api/delete-brand/:BrandName
+
+<h3>1 .PRODUCTS</h3>
+
+/api/create-produc
+/api/get-product-by-brand
+/api/get-product-by-category
+/api/update-product
+/api/delete-product/:ProductName
+/api/get-all-products
+
+<h3>1 .CATEGORIES</h3>
+
+/api/getallcategories
+/api/categoriesbyid/:_id
+/api/categorybyname/:CategoryName
+/api/create-category
+/api/update-category
+/api/delete-category/:CategoryName
+
+<h3>1 .USERS</h3>
+
+/api/login
+/api/signup
+/api/getallusers
+/api/userbyemail/:email
+get  /api/user/:id
+delete /api/user/:id
+put /api/user/:id
+
+
+<h3>1 .ORDERS</h3>
+
+/api/send-mail
+/api/place-order
   
   
 <h2>🧐 Features</h2>
